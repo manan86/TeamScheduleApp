@@ -104,7 +104,7 @@ The app uses **Hilt (Dagger Hilt)** for dependency injection to:
 
 | Regular Season 1 | Regular Season 2 | Postseason |
 |------------------|------------------|------------|
-| <img width="337" alt="Screenshot 1" src="https://github.com/user-attachments/assets/23390fd0-76ee-441b-9299-7df3c63a830e" /> | <img width="339" alt="Screenshot 2" src="https://github.com/user-attachments/assets/f02e4baa-f2c8-4329-a080-2dea8f27314f" /> | <img width="338" alt="Screenshot 3" src="https://github.com/user-attachments/assets/d3412be7-efba-4534-8184-9e77d2e96cef" /> |
+| <img width="337" alt="Screenshot 1" src="https://github.com/user-attachments/assets/23390fd0-76ee-441b-9299-7df3c63a830e" /> | <img width="338" alt="Screenshot 3" src="https://github.com/user-attachments/assets/d3412be7-efba-4534-8184-9e77d2e96cef" /> | <img width="339" alt="Screenshot 2" src="https://github.com/user-attachments/assets/f02e4baa-f2c8-4329-a080-2dea8f27314f" />
 
 
 ## 📺 Demo Video
