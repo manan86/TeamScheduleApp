@@ -118,4 +118,4 @@ https://github.com/user-attachments/assets/ee6f25c0-416e-4fd5-9453-c541af35293e
 
 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/TeamScheduleApp.git
+git clone https://github.com/manan86/TeamScheduleApp.git
