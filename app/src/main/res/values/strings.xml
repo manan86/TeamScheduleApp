@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TeamScheduleApp</string>
+    <string name="bye_week_text">BYE</string>
+    <string name="final_text">Final</string>
+    <string name="title_schedule">SCHEDULE</string>
+</resources>
